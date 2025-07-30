@@ -1,19 +1,19 @@
 {
-	"aime" : false,
+	"aime" : true,
 	"titleName" : "The DVD(tm) Logo",
 	"subGameId" : "SDVD",
 	"emoney" : {
 		"enable":true,
 		"paseli":true,
 		"sound":true,
-		"credits":[1,3,5]
+		"credits":[1,3,5,0,0]
 	},
 	"ui" : {
 		"entry_icons":{"direction":1,"position":{"position":0,"margin":{"x":20,"y":20}}},
 		"main_window":{"position":{"position":1,"margin":{"x":0,"y":20}}}
 	},
 	"gamepad" : {
-		"enable":false,
+		"enable":true,
 		"merge":false
 	}
 }
